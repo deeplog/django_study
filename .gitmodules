@@ -1,0 +1,3 @@
+[submodule "askcompany"]
+	path = askcompany
+	url = https://github.com/deeplog/askcompany.git
